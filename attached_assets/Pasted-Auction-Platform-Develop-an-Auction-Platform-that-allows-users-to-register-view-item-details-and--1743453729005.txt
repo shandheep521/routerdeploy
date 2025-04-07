@@ -1,0 +1,46 @@
+Auction Platform
+Develop an Auction Platform that allows users to register, view item details, and place bids, while sellers can manage their products, create auctions, and oversee bidding processes. The platform should handle various auction types, provide notifications for bid activities, and facilitate inventory management.
+What to do?
+User Functionalities
+User Registration and Profiles:
+Allow users to register on the platform, providing details such as name, email, and contact information.
+Enable users to manage their profiles and view their bidding history.
+Item Viewing:
+Display detailed item descriptions, images, and seller ratings for informed bidding decisions.
+Provide a user-friendly interface for browsing auction items.
+Bid History Logs:
+Implement a dashboard for users to view bid history logs, tracking the progression of bids over time.
+Bidding Options:
+Allow users to place bids using forms for traditional auctions, reverse auctions, or sealed bid auctions.
+Provide a seamless bidding experience for various auction types.
+Notifications:
+Send email notifications to users when they are outbid, prompting them to increase their bids if desired.
+Integrate email services like SendGrid or Nodemailer for notifications.
+Seller Functionalities
+Seller Registration and Accounts:
+Allow sellers to create accounts and register their products on the platform.
+Product Management (CRUD):
+Implement CRUD functionalities for sellers to create, read, update, and delete their products.
+Provide a user-friendly interface for managing product listings.
+Auction Categories:
+Enable sellers to create different categories of auction options (e.g., sealed bids for cars, bikes).
+Facilitate organization of auctions based on category.
+Seller Dashboard:
+Develop a seller dashboard to list all registered products.
+Include features for sellers to manage their auctions, including creating new auctions, updating auction details, and tracking auction status.
+Inventory Management:
+Allow sellers to list unsold items through an inventory management process.
+Provide functionalities for tracking and managing inventory.
+Auction Oversight:
+Enable sellers to oversee and manage all auctions they are involved in.
+Implement tools for resolving disputes and ensuring compliance with platform policies.
+
+Techstacks needs to be used : 
+
+MERN stack
+TailwindCSS for styling
+Email service integration
+How do I submit my work?
+Deploy your web application using Netlify (https://www.netlify.com), render(https://www.render.com).
+Push all your work files to GitHub.
+Submit your URLs in the portal.
